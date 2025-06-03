@@ -2,13 +2,13 @@
 using Rira.Technical.Services;
 
 
-IProductService productService = new ProductService(StaticProductData.Products);
+IProductsService productsService = new ProductsService(StaticProductData.Products);
 
-var category1Products = productService.GetProductsByCategory(Categories.Category1);
-var mostExpensive = productService.GetMostExpensiveProduct();
-var totalPrice = productService.GetTotalPrice();
-var grouped = productService.GroupByCategory();
-var avgPrice = productService.GetAveragePrice();
+var category1Products = productsService.GetProductsByCategory(Categories.Category1);
+var mostExpensive = productsService.GetMostExpensiveProduct();
+var totalPrice = productsService.GetTotalPrice();
+var grouped = productsService.GroupByCategory();
+var avgPrice = productsService.GetAveragePrice();
 
 Console.WriteLine("Category 1 Products: ");
 foreach (var product in category1Products)
