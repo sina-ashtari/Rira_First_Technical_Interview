@@ -1,0 +1,14 @@
+C:\Users\Sina\RiderProjects\Rira.Technical\Rira.Technical\bin\Debug\net9.0\Rira.Technical.exe
+C:\Users\Sina\RiderProjects\Rira.Technical\Rira.Technical\bin\Debug\net9.0\Rira.Technical.deps.json
+C:\Users\Sina\RiderProjects\Rira.Technical\Rira.Technical\bin\Debug\net9.0\Rira.Technical.runtimeconfig.json
+C:\Users\Sina\RiderProjects\Rira.Technical\Rira.Technical\bin\Debug\net9.0\Rira.Technical.dll
+C:\Users\Sina\RiderProjects\Rira.Technical\Rira.Technical\bin\Debug\net9.0\Rira.Technical.pdb
+C:\Users\Sina\RiderProjects\Rira.Technical\Rira.Technical\obj\Debug\net9.0\Rira.Technical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sina\RiderProjects\Rira.Technical\Rira.Technical\obj\Debug\net9.0\Rira.Technical.AssemblyInfoInputs.cache
+C:\Users\Sina\RiderProjects\Rira.Technical\Rira.Technical\obj\Debug\net9.0\Rira.Technical.AssemblyInfo.cs
+C:\Users\Sina\RiderProjects\Rira.Technical\Rira.Technical\obj\Debug\net9.0\Rira.Technical.csproj.CoreCompileInputs.cache
+C:\Users\Sina\RiderProjects\Rira.Technical\Rira.Technical\obj\Debug\net9.0\Rira.Technical.dll
+C:\Users\Sina\RiderProjects\Rira.Technical\Rira.Technical\obj\Debug\net9.0\refint\Rira.Technical.dll
+C:\Users\Sina\RiderProjects\Rira.Technical\Rira.Technical\obj\Debug\net9.0\Rira.Technical.pdb
+C:\Users\Sina\RiderProjects\Rira.Technical\Rira.Technical\obj\Debug\net9.0\Rira.Technical.genruntimeconfig.cache
+C:\Users\Sina\RiderProjects\Rira.Technical\Rira.Technical\obj\Debug\net9.0\ref\Rira.Technical.dll

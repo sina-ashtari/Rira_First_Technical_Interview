@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Rira.Technical/1.0.0": {
+        "runtime": {
+          "Rira.Technical.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rira.Technical/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
